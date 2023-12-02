@@ -10,6 +10,3 @@
 
 ![](1.jpg)
 
-**Ссылка на gitlab_ci.yaml**
-
-https://gitlab.com/ci-cd7655047/2/-/blob/main/.gitlab-ci.yml
